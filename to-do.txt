@@ -1,0 +1,1 @@
+1. buat structure to = {} dan from = {} pada setiap entry.
