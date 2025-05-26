@@ -1,0 +1,1001 @@
+[
+  {
+    "start_eng":"Whampoa",
+    "end_eng":"Ho Man Tin",
+    "start_canto":"黃埔",
+    "end_canto":"何文田",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.8509269636
+  },
+  {
+    "start_eng":"Ho Man Tin",
+    "end_eng":"Yau Ma Tei",
+    "start_canto":"何文田",
+    "end_canto":"油麻地",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.4147598017
+  },
+  {
+    "start_eng":"Yau Ma Tei",
+    "end_eng":"Mong Kok",
+    "start_canto":"油麻地",
+    "end_canto":"旺角",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.6338684154
+  },
+  {
+    "start_eng":"Mong Kok",
+    "end_eng":"Prince Edward",
+    "start_canto":"旺角",
+    "end_canto":"太子",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.7163487973
+  },
+  {
+    "start_eng":"Prince Edward",
+    "end_eng":"Shek Kip Mei",
+    "start_canto":"太子",
+    "end_canto":"石硤尾",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.6634094098
+  },
+  {
+    "start_eng":"Shek Kip Mei",
+    "end_eng":"Kowloon Tong",
+    "start_canto":"石硤尾",
+    "end_canto":"九龍塘",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.9888342147
+  },
+  {
+    "start_eng":"Kowloon Tong",
+    "end_eng":"Lok Fu",
+    "start_canto":"九龍塘",
+    "end_canto":"樂富",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.1879585553
+  },
+  {
+    "start_eng":"Lok Fu",
+    "end_eng":"Wong Tai Sin",
+    "start_canto":"樂富",
+    "end_canto":"黃大仙",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.7593955429
+  },
+  {
+    "start_eng":"Wong Tai Sin",
+    "end_eng":"Diamond Hill",
+    "start_canto":"黃大仙",
+    "end_canto":"鑽石山",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.8275725969
+  },
+  {
+    "start_eng":"Diamond Hill",
+    "end_eng":"Choi Hung",
+    "start_canto":"鑽石山",
+    "end_canto":"彩虹",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.9419416783
+  },
+  {
+    "start_eng":"Choi Hung",
+    "end_eng":"Kowloon Bay",
+    "start_canto":"彩虹",
+    "end_canto":"九龍灣",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.405739338
+  },
+  {
+    "start_eng":"Kowloon Bay",
+    "end_eng":"Ngau Tau Kok",
+    "start_canto":"九龍灣",
+    "end_canto":"牛頭角",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.0594761483
+  },
+  {
+    "start_eng":"Ngau Tau Kok",
+    "end_eng":"Kwun Tong",
+    "start_canto":"牛頭角",
+    "end_canto":"觀塘",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.8485608052
+  },
+  {
+    "start_eng":"Kwun Tong",
+    "end_eng":"Lam Tin",
+    "start_canto":"觀塘",
+    "end_canto":"藍田",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":0.8843355954
+  },
+  {
+    "start_eng":"Lam Tin",
+    "end_eng":"Yau Tong",
+    "start_canto":"藍田",
+    "end_canto":"油塘",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.4601917037
+  },
+  {
+    "start_eng":"Yau Tong",
+    "end_eng":"Tiu Keng Leng",
+    "start_canto":"油塘",
+    "end_canto":"調景嶺",
+    "line":"Kwun Tong",
+    "color":"#1C934A",
+    "edge_distance_km":1.9541013912
+  },
+  {
+    "start_eng":"Tsuen Wan",
+    "end_eng":"Tai Wo Hau",
+    "start_canto":"荃灣",
+    "end_canto":"大窩口",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.6633384614
+  },
+  {
+    "start_eng":"Tai Wo Hau",
+    "end_eng":"Kwai Hing",
+    "start_canto":"大窩口",
+    "end_canto":"葵興",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":1.05649447
+  },
+  {
+    "start_eng":"Kwai Hing",
+    "end_eng":"Kwai Fong",
+    "start_canto":"葵興",
+    "end_canto":"葵芳",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.8201562022
+  },
+  {
+    "start_eng":"Kwai Fong",
+    "end_eng":"Lai King",
+    "start_canto":"葵芳",
+    "end_canto":"荔景",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.9557081915
+  },
+  {
+    "start_eng":"Lai King",
+    "end_eng":"Mei Foo",
+    "start_canto":"荔景",
+    "end_canto":"美孚",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":1.7041306595
+  },
+  {
+    "start_eng":"Mei Foo",
+    "end_eng":"Lai Chi Kok",
+    "start_canto":"美孚",
+    "end_canto":"荔枝角",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":1.0339137383
+  },
+  {
+    "start_eng":"Lai Chi Kok",
+    "end_eng":"Cheung Sha Wan",
+    "start_canto":"荔枝角",
+    "end_canto":"長沙灣",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":1.0044721444
+  },
+  {
+    "start_eng":"Cheung Sha Wan",
+    "end_eng":"Sham Shui Po",
+    "start_canto":"長沙灣",
+    "end_canto":"深水埗",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.7668704132
+  },
+  {
+    "start_eng":"Sham Shui Po",
+    "end_eng":"Prince Edward",
+    "start_canto":"深水埗",
+    "end_canto":"太子",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.8460076942
+  },
+  {
+    "start_eng":"Prince Edward",
+    "end_eng":"Mong Kok",
+    "start_canto":"太子",
+    "end_canto":"旺角",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.7163487973
+  },
+  {
+    "start_eng":"Mong Kok",
+    "end_eng":"Yau Ma Tei",
+    "start_canto":"旺角",
+    "end_canto":"油麻地",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.6338684154
+  },
+  {
+    "start_eng":"Yau Ma Tei",
+    "end_eng":"Jordan",
+    "start_canto":"油麻地",
+    "end_canto":"佐敦",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":1.0124763008
+  },
+  {
+    "start_eng":"Jordan",
+    "end_eng":"Tsim Sha Tsui",
+    "start_canto":"佐敦",
+    "end_canto":"尖沙咀",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.7870853844
+  },
+  {
+    "start_eng":"Tsim Sha Tsui",
+    "end_eng":"Admiralty",
+    "start_canto":"尖沙咀",
+    "end_canto":"金鐘",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":2.1817791671
+  },
+  {
+    "start_eng":"Admiralty",
+    "end_eng":"Central",
+    "start_canto":"金鐘",
+    "end_canto":"中環",
+    "line":"Tsuen Wan",
+    "color":"#ED1C24",
+    "edge_distance_km":0.7643418635
+  },
+  {
+    "start_eng":"Kennedy Town",
+    "end_eng":"HKU",
+    "start_canto":"堅尼地城",
+    "end_canto":"香港大學",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.7030610555
+  },
+  {
+    "start_eng":"HKU",
+    "end_eng":"Sai Ying Pun",
+    "start_canto":"香港大學",
+    "end_canto":"西營盤",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.8098539913
+  },
+  {
+    "start_eng":"Sai Ying Pun",
+    "end_eng":"Sheung Wan",
+    "start_canto":"西營盤",
+    "end_canto":"上環",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.9471508008
+  },
+  {
+    "start_eng":"Sheung Wan",
+    "end_eng":"Central",
+    "start_canto":"上環",
+    "end_canto":"中環",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.7835808888
+  },
+  {
+    "start_eng":"Central",
+    "end_eng":"Admiralty",
+    "start_canto":"中環",
+    "end_canto":"金鐘",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.7643418635
+  },
+  {
+    "start_eng":"Admiralty",
+    "end_eng":"Wan Chai",
+    "start_canto":"金鐘",
+    "end_canto":"灣仔",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.9081934058
+  },
+  {
+    "start_eng":"Wan Chai",
+    "end_eng":"Causeway Bay",
+    "start_canto":"灣仔",
+    "end_canto":"銅鑼灣",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":1.2630630341
+  },
+  {
+    "start_eng":"Causeway Bay",
+    "end_eng":"Tin Hau",
+    "start_canto":"銅鑼灣",
+    "end_canto":"天后",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.7243839742
+  },
+  {
+    "start_eng":"Tin Hau",
+    "end_eng":"Fortress Hill",
+    "start_canto":"天后",
+    "end_canto":"炮台山",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.6481488661
+  },
+  {
+    "start_eng":"Fortress Hill",
+    "end_eng":"North Point",
+    "start_canto":"炮台山",
+    "end_canto":"北角",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.8006656042
+  },
+  {
+    "start_eng":"North Point",
+    "end_eng":"Quarry Bay",
+    "start_canto":"北角",
+    "end_canto":"鰂魚涌",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":1.0240646061
+  },
+  {
+    "start_eng":"Quarry Bay",
+    "end_eng":"Tai Koo",
+    "start_canto":"鰂魚涌",
+    "end_canto":"太古",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.5795611164
+  },
+  {
+    "start_eng":"Tai Koo",
+    "end_eng":"Sai Wan Ho",
+    "start_canto":"太古",
+    "end_canto":"西灣河",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.8709872234
+  },
+  {
+    "start_eng":"Sai Wan Ho",
+    "end_eng":"Shau Kei Wan",
+    "start_canto":"西灣河",
+    "end_canto":"筲箕灣",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":0.747400534
+  },
+  {
+    "start_eng":"Shau Kei Wan",
+    "end_eng":"Heng Fa Chuen",
+    "start_canto":"筲箕灣",
+    "end_canto":"杏花邨",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":1.1669536969
+  },
+  {
+    "start_eng":"Heng Fa Chuen",
+    "end_eng":"Chai Wan",
+    "start_canto":"杏花邨",
+    "end_canto":"柴灣",
+    "line":"Island",
+    "color":"#0079C2",
+    "edge_distance_km":1.3846241906
+  },
+  {
+    "start_eng":"South Horizons",
+    "end_eng":"Lei Tung",
+    "start_canto":"海怡半島",
+    "end_canto":"利東",
+    "line":"South Island",
+    "color":"#B2D235",
+    "edge_distance_km":0.8283608319
+  },
+  {
+    "start_eng":"Lei Tung",
+    "end_eng":"Wong Chuk Hang",
+    "start_canto":"利東",
+    "end_canto":"黃竹坑",
+    "line":"South Island",
+    "color":"#B2D235",
+    "edge_distance_km":1.4771193934
+  },
+  {
+    "start_eng":"Wong Chuk Hang",
+    "end_eng":"Ocean Park",
+    "start_canto":"黃竹坑",
+    "end_canto":"海洋公園",
+    "line":"South Island",
+    "color":"#B2D235",
+    "edge_distance_km":0.6554028491
+  },
+  {
+    "start_eng":"Ocean Park",
+    "end_eng":"Admiralty",
+    "start_canto":"海洋公園",
+    "end_canto":"金鐘",
+    "line":"South Island",
+    "color":"#B2D235",
+    "edge_distance_km":3.5594087059
+  },
+  {
+    "start_eng":"North Point",
+    "end_eng":"Quarry Bay",
+    "start_canto":"北角",
+    "end_canto":"鰂魚涌",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":1.0240646061
+  },
+  {
+    "start_eng":"Quarry Bay",
+    "end_eng":"Yau Tong",
+    "start_canto":"鰂魚涌",
+    "end_canto":"油塘",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":2.9438022845
+  },
+  {
+    "start_eng":"Yau Tong",
+    "end_eng":"Tiu Keng Leng",
+    "start_canto":"油塘",
+    "end_canto":"調景嶺",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":1.9541013912
+  },
+  {
+    "start_eng":"Tiu Keng Leng",
+    "end_eng":"Tseung Kwan O",
+    "start_canto":"調景嶺",
+    "end_canto":"將軍澳",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":0.8050481555
+  },
+  {
+    "start_eng":"Tseung Kwan O",
+    "end_eng":"Hang Hau",
+    "start_canto":"將軍澳",
+    "end_canto":"坑口",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":1.004318666
+  },
+  {
+    "start_eng":"Hang Hau",
+    "end_eng":"Po Lam",
+    "start_canto":"坑口",
+    "end_canto":"寶琳",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":1.1286871614
+  },
+  {
+    "start_eng":"Tseung Kwan O",
+    "end_eng":"LOHAS Park",
+    "start_canto":"將軍澳",
+    "end_canto":"康城",
+    "line":"Tseung Kwan O",
+    "color":"#9900AA",
+    "edge_distance_km":1.881229408
+  },
+  {
+    "start_eng":"Hong Kong",
+    "end_eng":"Kowloon",
+    "start_canto":"香港",
+    "end_canto":"九龍",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":2.2437479448
+  },
+  {
+    "start_eng":"Kowloon",
+    "end_eng":"Olympic",
+    "start_canto":"九龍",
+    "end_canto":"奧運",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":1.5027954383
+  },
+  {
+    "start_eng":"Olympic",
+    "end_eng":"Nam Cheong",
+    "start_canto":"奧運",
+    "end_canto":"南昌",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":1.2064220354
+  },
+  {
+    "start_eng":"Nam Cheong",
+    "end_eng":"Lai King",
+    "start_canto":"南昌",
+    "end_canto":"荔景",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":3.7078152476
+  },
+  {
+    "start_eng":"Lai King",
+    "end_eng":"Tsing Yi",
+    "start_canto":"荔景",
+    "end_canto":"青衣",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":2.2136528375
+  },
+  {
+    "start_eng":"Tsing Yi",
+    "end_eng":"Sunny Bay",
+    "start_canto":"青衣",
+    "end_canto":"欣澳",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":8.6249104572
+  },
+  {
+    "start_eng":"Sunny Bay",
+    "end_eng":"Tung Chung",
+    "start_canto":"欣澳",
+    "end_canto":"東涌",
+    "line":"Tung Chung",
+    "color":"#F57D14",
+    "edge_distance_km":10.1695970281
+  },
+  {
+    "start_eng":"Sunny Bay",
+    "end_eng":"Disneyland Resort",
+    "start_canto":"欣澳",
+    "end_canto":"迪士尼",
+    "line":"Disneyland Resort",
+    "color":"#F86CAE",
+    "edge_distance_km":2.4702273767
+  },
+  {
+    "start_eng":"Admiralty",
+    "end_eng":"Exhibition Centre",
+    "start_canto":"金鐘",
+    "end_canto":"會展",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.1660448896
+  },
+  {
+    "start_eng":"Exhibition Centre",
+    "end_eng":"Hung Hom",
+    "start_canto":"會展",
+    "end_canto":"紅磡",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":2.3892355638
+  },
+  {
+    "start_eng":"Hung Hom",
+    "end_eng":"Mong Kok East",
+    "start_canto":"紅磡",
+    "end_canto":"旺角東",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":2.3622707439
+  },
+  {
+    "start_eng":"Mong Kok East",
+    "end_eng":"Kowloon Tong",
+    "start_canto":"旺角東",
+    "end_canto":"九龍塘",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.715796007
+  },
+  {
+    "start_eng":"Kowloon Tong",
+    "end_eng":"Tai Wai",
+    "start_canto":"九龍塘",
+    "end_canto":"大圍",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":4.0225719222
+  },
+  {
+    "start_eng":"Tai Wai",
+    "end_eng":"Sha Tin",
+    "start_canto":"大圍",
+    "end_canto":"沙田",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.3231926977
+  },
+  {
+    "start_eng":"Sha Tin",
+    "end_eng":"Fo Tan",
+    "start_canto":"沙田",
+    "end_canto":"火炭",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.9773121958
+  },
+  {
+    "start_eng":"Fo Tan",
+    "end_eng":"Racecourse",
+    "start_canto":"火炭",
+    "end_canto":"馬場",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":0.7376015892
+  },
+  {
+    "start_eng":"Racecourse",
+    "end_eng":"University",
+    "start_canto":"馬場",
+    "end_canto":"大學",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.547876126
+  },
+  {
+    "start_eng":"University",
+    "end_eng":"Tai Po Market",
+    "start_canto":"大學",
+    "end_canto":"大埔墟",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":5.2796321932
+  },
+  {
+    "start_eng":"Tai Po Market",
+    "end_eng":"Tai Wo",
+    "start_canto":"大埔墟",
+    "end_canto":"太和",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.266449725
+  },
+  {
+    "start_eng":"Tai Wo",
+    "end_eng":"Fanling",
+    "start_canto":"太和",
+    "end_canto":"粉嶺",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":5.1368241676
+  },
+  {
+    "start_eng":"Fanling",
+    "end_eng":"Sheung Shui",
+    "start_canto":"粉嶺",
+    "end_canto":"上水",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":1.4292799109
+  },
+  {
+    "start_eng":"Sheung Shui",
+    "end_eng":"Lo Wu",
+    "start_canto":"上水",
+    "end_canto":"羅湖",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":3.2948269622
+  },
+  {
+    "start_eng":"Sheung Shui",
+    "end_eng":"Lok Ma Chau",
+    "start_canto":"上水",
+    "end_canto":"落馬洲",
+    "line":"East Rail",
+    "color":"#00A1E9",
+    "edge_distance_km":4.9563955657
+  },
+  {
+    "start_eng":"Tuen Mun",
+    "end_eng":"Siu Hong",
+    "start_canto":"屯門",
+    "end_canto":"兆康",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.7556364125
+  },
+  {
+    "start_eng":"Siu Hong",
+    "end_eng":"Tin Shui Wai",
+    "start_canto":"兆康",
+    "end_canto":"天水圍",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":6.2277655758
+  },
+  {
+    "start_eng":"Tin Shui Wai",
+    "end_eng":"Long Ping",
+    "start_canto":"天水圍",
+    "end_canto":"朗屏",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":2.6379216725
+  },
+  {
+    "start_eng":"Long Ping",
+    "end_eng":"Yuen Long",
+    "start_canto":"朗屏",
+    "end_canto":"元朗",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.9658153642
+  },
+  {
+    "start_eng":"Yuen Long",
+    "end_eng":"Kam Sheung Road",
+    "start_canto":"元朗",
+    "end_canto":"錦上路",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":3.216640039
+  },
+  {
+    "start_eng":"Kam Sheung Road",
+    "end_eng":"Tsuen Wan West",
+    "start_canto":"錦上路",
+    "end_canto":"荃灣西",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":8.8278255391
+  },
+  {
+    "start_eng":"Tsuen Wan West",
+    "end_eng":"Mei Foo",
+    "start_canto":"荃灣西",
+    "end_canto":"美孚",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":4.3885726437
+  },
+  {
+    "start_eng":"Mei Foo",
+    "end_eng":"Nam Cheong",
+    "start_canto":"美孚",
+    "end_canto":"南昌",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":2.0126165242
+  },
+  {
+    "start_eng":"Nam Cheong",
+    "end_eng":"Austin",
+    "start_canto":"南昌",
+    "end_canto":"柯士甸",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":2.7092762752
+  },
+  {
+    "start_eng":"Austin",
+    "end_eng":"East Tsim Sha Tsui",
+    "start_canto":"柯士甸",
+    "end_canto":"尖東",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.4161484571
+  },
+  {
+    "start_eng":"East Tsim Sha Tsui",
+    "end_eng":"Hung Hom",
+    "start_canto":"尖東",
+    "end_canto":"紅磡",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.1361245981
+  },
+  {
+    "start_eng":"Hung Hom",
+    "end_eng":"Ho Man Tin",
+    "start_canto":"紅磡",
+    "end_canto":"何文田",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.738886736
+  },
+  {
+    "start_eng":"Ho Man Tin",
+    "end_eng":"To Kwa Wan",
+    "start_canto":"何文田",
+    "end_canto":"土瓜灣",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.1070975854
+  },
+  {
+    "start_eng":"To Kwa Wan",
+    "end_eng":"Sung Wong Toi",
+    "start_canto":"土瓜灣",
+    "end_canto":"宋皇臺",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.9364265643
+  },
+  {
+    "start_eng":"Sung Wong Toi",
+    "end_eng":"Kai Tak",
+    "start_canto":"宋皇臺",
+    "end_canto":"啟德",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.9941865076
+  },
+  {
+    "start_eng":"Kai Tak",
+    "end_eng":"Diamond Hill",
+    "start_canto":"啟德",
+    "end_canto":"鑽石山",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.073460471
+  },
+  {
+    "start_eng":"Diamond Hill",
+    "end_eng":"Hin Keng",
+    "start_canto":"鑽石山",
+    "end_canto":"顯徑",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":4.1372792809
+  },
+  {
+    "start_eng":"Hin Keng",
+    "end_eng":"Tai Wai",
+    "start_canto":"顯徑",
+    "end_canto":"大圍",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.2950843798
+  },
+  {
+    "start_eng":"Tai Wai",
+    "end_eng":"Che Kung Temple",
+    "start_canto":"大圍",
+    "end_canto":"車公廟",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.8187487658
+  },
+  {
+    "start_eng":"Che Kung Temple",
+    "end_eng":"Sha Tin Wai",
+    "start_canto":"車公廟",
+    "end_canto":"沙田圍",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.2465458884
+  },
+  {
+    "start_eng":"Sha Tin Wai",
+    "end_eng":"City One",
+    "start_canto":"沙田圍",
+    "end_canto":"第一城",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.8437398297
+  },
+  {
+    "start_eng":"City One",
+    "end_eng":"Shek Mun",
+    "start_canto":"第一城",
+    "end_canto":"石門",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.7162794928
+  },
+  {
+    "start_eng":"Shek Mun",
+    "end_eng":"Tai Shui Hang",
+    "start_canto":"石門",
+    "end_canto":"大水坑",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":2.7377810502
+  },
+  {
+    "start_eng":"Tai Shui Hang",
+    "end_eng":"Heng On",
+    "start_canto":"大水坑",
+    "end_canto":"恆安",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.0355516284
+  },
+  {
+    "start_eng":"Heng On",
+    "end_eng":"Ma On Shan",
+    "start_canto":"恆安",
+    "end_canto":"馬鞍山",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":1.889544168
+  },
+  {
+    "start_eng":"Ma On Shan",
+    "end_eng":"Wu Kai Sha",
+    "start_canto":"馬鞍山",
+    "end_canto":"烏溪沙",
+    "line":"Tuen Ma",
+    "color":"#AD6738",
+    "edge_distance_km":0.4071309119
+  },
+  {
+    "start_eng":"AsiaWorld-Expo",
+    "end_eng":"Airport",
+    "start_canto":"博覽館",
+    "end_canto":"機場",
+    "line":"Airport Express",
+    "color":"#009999",
+    "edge_distance_km":0.9216484931
+  },
+  {
+    "start_eng":"Airport",
+    "end_eng":"Tsing Yi",
+    "start_canto":"機場",
+    "end_canto":"青衣",
+    "line":"Airport Express",
+    "color":"#009999",
+    "edge_distance_km":18.2261324976
+  },
+  {
+    "start_eng":"Tsing Yi",
+    "end_eng":"Kowloon",
+    "start_canto":"青衣",
+    "end_canto":"九龍",
+    "line":"Airport Express",
+    "color":"#009999",
+    "edge_distance_km":8.1814012202
+  },
+  {
+    "start_eng":"Kowloon",
+    "end_eng":"Hong Kong",
+    "start_canto":"九龍",
+    "end_canto":"香港",
+    "line":"Airport Express",
+    "color":"#009999",
+    "edge_distance_km":2.2437479448
+  }
+]
