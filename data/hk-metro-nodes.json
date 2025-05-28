@@ -1,0 +1,1824 @@
+[
+  {
+    "name": "Whampoa",
+    "neighbours": [
+      {
+        "name": "Ho Man Tin",
+        "distance_km": 0.8509269636,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Ho Man Tin",
+    "neighbours": [
+      {
+        "name": "Whampoa",
+        "distance_km": 0.8509269636,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Yau Ma Tei",
+        "distance_km": 1.4147598017,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Hung Hom",
+        "distance_km": 0.738886736,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "To Kwa Wan",
+        "distance_km": 1.1070975854,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Yau Ma Tei",
+    "neighbours": [
+      {
+        "name": "Ho Man Tin",
+        "distance_km": 1.4147598017,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Mong Kok",
+        "distance_km": 0.6338684154,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Mong Kok",
+        "distance_km": 0.6338684154,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Jordan",
+        "distance_km": 1.0124763008,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Mong Kok",
+    "neighbours": [
+      {
+        "name": "Yau Ma Tei",
+        "distance_km": 0.6338684154,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Prince Edward",
+        "distance_km": 0.7163487973,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Prince Edward",
+        "distance_km": 0.7163487973,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Yau Ma Tei",
+        "distance_km": 0.6338684154,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Prince Edward",
+    "neighbours": [
+      {
+        "name": "Mong Kok",
+        "distance_km": 0.7163487973,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Shek Kip Mei",
+        "distance_km": 0.6634094098,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Sham Shui Po",
+        "distance_km": 0.8460076942,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Mong Kok",
+        "distance_km": 0.7163487973,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Shek Kip Mei",
+    "neighbours": [
+      {
+        "name": "Prince Edward",
+        "distance_km": 0.6634094098,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Kowloon Tong",
+        "distance_km": 0.9888342147,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Kowloon Tong",
+    "neighbours": [
+      {
+        "name": "Shek Kip Mei",
+        "distance_km": 0.9888342147,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Lok Fu",
+        "distance_km": 1.1879585553,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Mong Kok East",
+        "distance_km": 1.715796007,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Tai Wai",
+        "distance_km": 4.0225719222,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Lok Fu",
+    "neighbours": [
+      {
+        "name": "Kowloon Tong",
+        "distance_km": 1.1879585553,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Wong Tai Sin",
+        "distance_km": 0.7593955429,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Wong Tai Sin",
+    "neighbours": [
+      {
+        "name": "Lok Fu",
+        "distance_km": 0.7593955429,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Diamond Hill",
+        "distance_km": 0.8275725969,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Diamond Hill",
+    "neighbours": [
+      {
+        "name": "Wong Tai Sin",
+        "distance_km": 0.8275725969,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Choi Hung",
+        "distance_km": 0.9419416783,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Kai Tak",
+        "distance_km": 1.073460471,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Hin Keng",
+        "distance_km": 4.1372792809,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Choi Hung",
+    "neighbours": [
+      {
+        "name": "Diamond Hill",
+        "distance_km": 0.9419416783,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Kowloon Bay",
+        "distance_km": 1.405739338,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Kowloon Bay",
+    "neighbours": [
+      {
+        "name": "Choi Hung",
+        "distance_km": 1.405739338,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Ngau Tau Kok",
+        "distance_km": 1.0594761483,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Ngau Tau Kok",
+    "neighbours": [
+      {
+        "name": "Kowloon Bay",
+        "distance_km": 1.0594761483,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Kwun Tong",
+        "distance_km": 0.8485608052,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Kwun Tong",
+    "neighbours": [
+      {
+        "name": "Ngau Tau Kok",
+        "distance_km": 0.8485608052,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Lam Tin",
+        "distance_km": 0.8843355954,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Lam Tin",
+    "neighbours": [
+      {
+        "name": "Kwun Tong",
+        "distance_km": 0.8843355954,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Yau Tong",
+        "distance_km": 1.4601917037,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      }
+    ]
+  },
+  {
+    "name": "Yau Tong",
+    "neighbours": [
+      {
+        "name": "Lam Tin",
+        "distance_km": 1.4601917037,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Tiu Keng Leng",
+        "distance_km": 1.9541013912,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Quarry Bay",
+        "distance_km": 2.9438022845,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "Tiu Keng Leng",
+        "distance_km": 1.9541013912,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Tiu Keng Leng",
+    "neighbours": [
+      {
+        "name": "Yau Tong",
+        "distance_km": 1.9541013912,
+        "line": "Kwun Tong",
+        "color": "#1C934A"
+      },
+      {
+        "name": "Yau Tong",
+        "distance_km": 1.9541013912,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "Tseung Kwan O",
+        "distance_km": 0.8050481555,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Tsuen Wan",
+    "neighbours": [
+      {
+        "name": "Tai Wo Hau",
+        "distance_km": 0.6633384614,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Tai Wo Hau",
+    "neighbours": [
+      {
+        "name": "Tsuen Wan",
+        "distance_km": 0.6633384614,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Kwai Hing",
+        "distance_km": 1.05649447,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Kwai Hing",
+    "neighbours": [
+      {
+        "name": "Tai Wo Hau",
+        "distance_km": 1.05649447,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Kwai Fong",
+        "distance_km": 0.8201562022,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Kwai Fong",
+    "neighbours": [
+      {
+        "name": "Kwai Hing",
+        "distance_km": 0.8201562022,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Lai King",
+        "distance_km": 0.9557081915,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Lai King",
+    "neighbours": [
+      {
+        "name": "Kwai Fong",
+        "distance_km": 0.9557081915,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Mei Foo",
+        "distance_km": 1.7041306595,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Nam Cheong",
+        "distance_km": 3.7078152476,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Tsing Yi",
+        "distance_km": 2.2136528375,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      }
+    ]
+  },
+  {
+    "name": "Mei Foo",
+    "neighbours": [
+      {
+        "name": "Lai King",
+        "distance_km": 1.7041306595,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Lai Chi Kok",
+        "distance_km": 1.0339137383,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Tsuen Wan West",
+        "distance_km": 4.3885726437,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Nam Cheong",
+        "distance_km": 2.0126165242,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Lai Chi Kok",
+    "neighbours": [
+      {
+        "name": "Mei Foo",
+        "distance_km": 1.0339137383,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Cheung Sha Wan",
+        "distance_km": 1.0044721444,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Cheung Sha Wan",
+    "neighbours": [
+      {
+        "name": "Lai Chi Kok",
+        "distance_km": 1.0044721444,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Sham Shui Po",
+        "distance_km": 0.7668704132,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Sham Shui Po",
+    "neighbours": [
+      {
+        "name": "Cheung Sha Wan",
+        "distance_km": 0.7668704132,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Prince Edward",
+        "distance_km": 0.8460076942,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "neighbours": [
+      {
+        "name": "Yau Ma Tei",
+        "distance_km": 1.0124763008,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Tsim Sha Tsui",
+        "distance_km": 0.7870853844,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Tsim Sha Tsui",
+    "neighbours": [
+      {
+        "name": "Jordan",
+        "distance_km": 0.7870853844,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Admiralty",
+        "distance_km": 2.1817791671,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      }
+    ]
+  },
+  {
+    "name": "Admiralty",
+    "neighbours": [
+      {
+        "name": "Tsim Sha Tsui",
+        "distance_km": 2.1817791671,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Central",
+        "distance_km": 0.7643418635,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Central",
+        "distance_km": 0.7643418635,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Wan Chai",
+        "distance_km": 0.9081934058,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Ocean Park",
+        "distance_km": 3.5594087059,
+        "line": "South Island",
+        "color": "#B2D235"
+      },
+      {
+        "name": "Exhibition Centre",
+        "distance_km": 1.1660448896,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Central",
+    "neighbours": [
+      {
+        "name": "Admiralty",
+        "distance_km": 0.7643418635,
+        "line": "Tsuen Wan",
+        "color": "#ED1C24"
+      },
+      {
+        "name": "Sheung Wan",
+        "distance_km": 0.7835808888,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Admiralty",
+        "distance_km": 0.7643418635,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Kennedy Town",
+    "neighbours": [
+      {
+        "name": "HKU",
+        "distance_km": 0.7030610555,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "HKU",
+    "neighbours": [
+      {
+        "name": "Kennedy Town",
+        "distance_km": 0.7030610555,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Sai Ying Pun",
+        "distance_km": 0.8098539913,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Sai Ying Pun",
+    "neighbours": [
+      {
+        "name": "HKU",
+        "distance_km": 0.8098539913,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Sheung Wan",
+        "distance_km": 0.9471508008,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Sheung Wan",
+    "neighbours": [
+      {
+        "name": "Sai Ying Pun",
+        "distance_km": 0.9471508008,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Central",
+        "distance_km": 0.7835808888,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Wan Chai",
+    "neighbours": [
+      {
+        "name": "Admiralty",
+        "distance_km": 0.9081934058,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Causeway Bay",
+        "distance_km": 1.2630630341,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Causeway Bay",
+    "neighbours": [
+      {
+        "name": "Wan Chai",
+        "distance_km": 1.2630630341,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Tin Hau",
+        "distance_km": 0.7243839742,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Tin Hau",
+    "neighbours": [
+      {
+        "name": "Causeway Bay",
+        "distance_km": 0.7243839742,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Fortress Hill",
+        "distance_km": 0.6481488661,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Fortress Hill",
+    "neighbours": [
+      {
+        "name": "Tin Hau",
+        "distance_km": 0.6481488661,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "North Point",
+        "distance_km": 0.8006656042,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "North Point",
+    "neighbours": [
+      {
+        "name": "Fortress Hill",
+        "distance_km": 0.8006656042,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Quarry Bay",
+        "distance_km": 1.0240646061,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Quarry Bay",
+        "distance_km": 1.0240646061,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Quarry Bay",
+    "neighbours": [
+      {
+        "name": "North Point",
+        "distance_km": 1.0240646061,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Tai Koo",
+        "distance_km": 0.5795611164,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "North Point",
+        "distance_km": 1.0240646061,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "Yau Tong",
+        "distance_km": 2.9438022845,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Tai Koo",
+    "neighbours": [
+      {
+        "name": "Quarry Bay",
+        "distance_km": 0.5795611164,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Sai Wan Ho",
+        "distance_km": 0.8709872234,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Sai Wan Ho",
+    "neighbours": [
+      {
+        "name": "Tai Koo",
+        "distance_km": 0.8709872234,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Shau Kei Wan",
+        "distance_km": 0.747400534,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Shau Kei Wan",
+    "neighbours": [
+      {
+        "name": "Sai Wan Ho",
+        "distance_km": 0.747400534,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Heng Fa Chuen",
+        "distance_km": 1.1669536969,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Heng Fa Chuen",
+    "neighbours": [
+      {
+        "name": "Shau Kei Wan",
+        "distance_km": 1.1669536969,
+        "line": "Island",
+        "color": "#0079C2"
+      },
+      {
+        "name": "Chai Wan",
+        "distance_km": 1.3846241906,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "Chai Wan",
+    "neighbours": [
+      {
+        "name": "Heng Fa Chuen",
+        "distance_km": 1.3846241906,
+        "line": "Island",
+        "color": "#0079C2"
+      }
+    ]
+  },
+  {
+    "name": "South Horizons",
+    "neighbours": [
+      {
+        "name": "Lei Tung",
+        "distance_km": 0.8283608319,
+        "line": "South Island",
+        "color": "#B2D235"
+      }
+    ]
+  },
+  {
+    "name": "Lei Tung",
+    "neighbours": [
+      {
+        "name": "South Horizons",
+        "distance_km": 0.8283608319,
+        "line": "South Island",
+        "color": "#B2D235"
+      },
+      {
+        "name": "Wong Chuk Hang",
+        "distance_km": 1.4771193934,
+        "line": "South Island",
+        "color": "#B2D235"
+      }
+    ]
+  },
+  {
+    "name": "Wong Chuk Hang",
+    "neighbours": [
+      {
+        "name": "Lei Tung",
+        "distance_km": 1.4771193934,
+        "line": "South Island",
+        "color": "#B2D235"
+      },
+      {
+        "name": "Ocean Park",
+        "distance_km": 0.6554028491,
+        "line": "South Island",
+        "color": "#B2D235"
+      }
+    ]
+  },
+  {
+    "name": "Ocean Park",
+    "neighbours": [
+      {
+        "name": "Wong Chuk Hang",
+        "distance_km": 0.6554028491,
+        "line": "South Island",
+        "color": "#B2D235"
+      },
+      {
+        "name": "Admiralty",
+        "distance_km": 3.5594087059,
+        "line": "South Island",
+        "color": "#B2D235"
+      }
+    ]
+  },
+  {
+    "name": "Tseung Kwan O",
+    "neighbours": [
+      {
+        "name": "Tiu Keng Leng",
+        "distance_km": 0.8050481555,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "Hang Hau",
+        "distance_km": 1.004318666,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "LOHAS Park",
+        "distance_km": 1.881229408,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Hang Hau",
+    "neighbours": [
+      {
+        "name": "Tseung Kwan O",
+        "distance_km": 1.004318666,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      },
+      {
+        "name": "Po Lam",
+        "distance_km": 1.1286871614,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Po Lam",
+    "neighbours": [
+      {
+        "name": "Hang Hau",
+        "distance_km": 1.1286871614,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "LOHAS Park",
+    "neighbours": [
+      {
+        "name": "Tseung Kwan O",
+        "distance_km": 1.881229408,
+        "line": "Tseung Kwan O",
+        "color": "#9900AA"
+      }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "neighbours": [
+      {
+        "name": "Kowloon",
+        "distance_km": 2.2437479448,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Kowloon",
+        "distance_km": 2.2437479448,
+        "line": "Airport Express",
+        "color": "#009999"
+      }
+    ]
+  },
+  {
+    "name": "Kowloon",
+    "neighbours": [
+      {
+        "name": "Hong Kong",
+        "distance_km": 2.2437479448,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Olympic",
+        "distance_km": 1.5027954383,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Tsing Yi",
+        "distance_km": 8.1814012202,
+        "line": "Airport Express",
+        "color": "#009999"
+      },
+      {
+        "name": "Hong Kong",
+        "distance_km": 2.2437479448,
+        "line": "Airport Express",
+        "color": "#009999"
+      }
+    ]
+  },
+  {
+    "name": "Olympic",
+    "neighbours": [
+      {
+        "name": "Kowloon",
+        "distance_km": 1.5027954383,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Nam Cheong",
+        "distance_km": 1.2064220354,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      }
+    ]
+  },
+  {
+    "name": "Nam Cheong",
+    "neighbours": [
+      {
+        "name": "Olympic",
+        "distance_km": 1.2064220354,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Lai King",
+        "distance_km": 3.7078152476,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Mei Foo",
+        "distance_km": 2.0126165242,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Austin",
+        "distance_km": 2.7092762752,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Tsing Yi",
+    "neighbours": [
+      {
+        "name": "Lai King",
+        "distance_km": 2.2136528375,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Sunny Bay",
+        "distance_km": 8.6249104572,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Airport",
+        "distance_km": 18.2261324976,
+        "line": "Airport Express",
+        "color": "#009999"
+      },
+      {
+        "name": "Kowloon",
+        "distance_km": 8.1814012202,
+        "line": "Airport Express",
+        "color": "#009999"
+      }
+    ]
+  },
+  {
+    "name": "Sunny Bay",
+    "neighbours": [
+      {
+        "name": "Tsing Yi",
+        "distance_km": 8.6249104572,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Tung Chung",
+        "distance_km": 10.1695970281,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      },
+      {
+        "name": "Disneyland Resort",
+        "distance_km": 2.4702273767,
+        "line": "Disneyland Resort",
+        "color": "#F86CAE"
+      }
+    ]
+  },
+  {
+    "name": "Tung Chung",
+    "neighbours": [
+      {
+        "name": "Sunny Bay",
+        "distance_km": 10.1695970281,
+        "line": "Tung Chung",
+        "color": "#F57D14"
+      }
+    ]
+  },
+  {
+    "name": "Disneyland Resort",
+    "neighbours": [
+      {
+        "name": "Sunny Bay",
+        "distance_km": 2.4702273767,
+        "line": "Disneyland Resort",
+        "color": "#F86CAE"
+      }
+    ]
+  },
+  {
+    "name": "Exhibition Centre",
+    "neighbours": [
+      {
+        "name": "Admiralty",
+        "distance_km": 1.1660448896,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Hung Hom",
+        "distance_km": 2.3892355638,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Hung Hom",
+    "neighbours": [
+      {
+        "name": "Exhibition Centre",
+        "distance_km": 2.3892355638,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Mong Kok East",
+        "distance_km": 2.3622707439,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "East Tsim Sha Tsui",
+        "distance_km": 1.1361245981,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Ho Man Tin",
+        "distance_km": 0.738886736,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Mong Kok East",
+    "neighbours": [
+      {
+        "name": "Hung Hom",
+        "distance_km": 2.3622707439,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Kowloon Tong",
+        "distance_km": 1.715796007,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Tai Wai",
+    "neighbours": [
+      {
+        "name": "Kowloon Tong",
+        "distance_km": 4.0225719222,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Sha Tin",
+        "distance_km": 1.3231926977,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Hin Keng",
+        "distance_km": 1.2950843798,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Che Kung Temple",
+        "distance_km": 0.8187487658,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Sha Tin",
+    "neighbours": [
+      {
+        "name": "Tai Wai",
+        "distance_km": 1.3231926977,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Fo Tan",
+        "distance_km": 1.9773121958,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Fo Tan",
+    "neighbours": [
+      {
+        "name": "Sha Tin",
+        "distance_km": 1.9773121958,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Racecourse",
+        "distance_km": 0.7376015892,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Racecourse",
+    "neighbours": [
+      {
+        "name": "Fo Tan",
+        "distance_km": 0.7376015892,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "University",
+        "distance_km": 1.547876126,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "University",
+    "neighbours": [
+      {
+        "name": "Racecourse",
+        "distance_km": 1.547876126,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Tai Po Market",
+        "distance_km": 5.2796321932,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Tai Po Market",
+    "neighbours": [
+      {
+        "name": "University",
+        "distance_km": 5.2796321932,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Tai Wo",
+        "distance_km": 1.266449725,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Tai Wo",
+    "neighbours": [
+      {
+        "name": "Tai Po Market",
+        "distance_km": 1.266449725,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Fanling",
+        "distance_km": 5.1368241676,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Fanling",
+    "neighbours": [
+      {
+        "name": "Tai Wo",
+        "distance_km": 5.1368241676,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Sheung Shui",
+        "distance_km": 1.4292799109,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Sheung Shui",
+    "neighbours": [
+      {
+        "name": "Fanling",
+        "distance_km": 1.4292799109,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Lo Wu",
+        "distance_km": 3.2948269622,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      },
+      {
+        "name": "Lok Ma Chau",
+        "distance_km": 4.9563955657,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Lo Wu",
+    "neighbours": [
+      {
+        "name": "Sheung Shui",
+        "distance_km": 3.2948269622,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Lok Ma Chau",
+    "neighbours": [
+      {
+        "name": "Sheung Shui",
+        "distance_km": 4.9563955657,
+        "line": "East Rail",
+        "color": "#00A1E9"
+      }
+    ]
+  },
+  {
+    "name": "Tuen Mun",
+    "neighbours": [
+      {
+        "name": "Siu Hong",
+        "distance_km": 1.7556364125,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Siu Hong",
+    "neighbours": [
+      {
+        "name": "Tuen Mun",
+        "distance_km": 1.7556364125,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Tin Shui Wai",
+        "distance_km": 6.2277655758,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Tin Shui Wai",
+    "neighbours": [
+      {
+        "name": "Siu Hong",
+        "distance_km": 6.2277655758,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Long Ping",
+        "distance_km": 2.6379216725,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Long Ping",
+    "neighbours": [
+      {
+        "name": "Tin Shui Wai",
+        "distance_km": 2.6379216725,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Yuen Long",
+        "distance_km": 0.9658153642,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Yuen Long",
+    "neighbours": [
+      {
+        "name": "Long Ping",
+        "distance_km": 0.9658153642,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Kam Sheung Road",
+        "distance_km": 3.216640039,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Kam Sheung Road",
+    "neighbours": [
+      {
+        "name": "Yuen Long",
+        "distance_km": 3.216640039,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Tsuen Wan West",
+        "distance_km": 8.8278255391,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Tsuen Wan West",
+    "neighbours": [
+      {
+        "name": "Kam Sheung Road",
+        "distance_km": 8.8278255391,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Mei Foo",
+        "distance_km": 4.3885726437,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Austin",
+    "neighbours": [
+      {
+        "name": "Nam Cheong",
+        "distance_km": 2.7092762752,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "East Tsim Sha Tsui",
+        "distance_km": 1.4161484571,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "East Tsim Sha Tsui",
+    "neighbours": [
+      {
+        "name": "Austin",
+        "distance_km": 1.4161484571,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Hung Hom",
+        "distance_km": 1.1361245981,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "To Kwa Wan",
+    "neighbours": [
+      {
+        "name": "Ho Man Tin",
+        "distance_km": 1.1070975854,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Sung Wong Toi",
+        "distance_km": 0.9364265643,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Sung Wong Toi",
+    "neighbours": [
+      {
+        "name": "To Kwa Wan",
+        "distance_km": 0.9364265643,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Kai Tak",
+        "distance_km": 0.9941865076,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Kai Tak",
+    "neighbours": [
+      {
+        "name": "Sung Wong Toi",
+        "distance_km": 0.9941865076,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Diamond Hill",
+        "distance_km": 1.073460471,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Hin Keng",
+    "neighbours": [
+      {
+        "name": "Diamond Hill",
+        "distance_km": 4.1372792809,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Tai Wai",
+        "distance_km": 1.2950843798,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Che Kung Temple",
+    "neighbours": [
+      {
+        "name": "Tai Wai",
+        "distance_km": 0.8187487658,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Sha Tin Wai",
+        "distance_km": 1.2465458884,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Sha Tin Wai",
+    "neighbours": [
+      {
+        "name": "Che Kung Temple",
+        "distance_km": 1.2465458884,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "City One",
+        "distance_km": 0.8437398297,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "City One",
+    "neighbours": [
+      {
+        "name": "Sha Tin Wai",
+        "distance_km": 0.8437398297,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Shek Mun",
+        "distance_km": 0.7162794928,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Shek Mun",
+    "neighbours": [
+      {
+        "name": "City One",
+        "distance_km": 0.7162794928,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Tai Shui Hang",
+        "distance_km": 2.7377810502,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Tai Shui Hang",
+    "neighbours": [
+      {
+        "name": "Shek Mun",
+        "distance_km": 2.7377810502,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Heng On",
+        "distance_km": 1.0355516284,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Heng On",
+    "neighbours": [
+      {
+        "name": "Tai Shui Hang",
+        "distance_km": 1.0355516284,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Ma On Shan",
+        "distance_km": 1.889544168,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Ma On Shan",
+    "neighbours": [
+      {
+        "name": "Heng On",
+        "distance_km": 1.889544168,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      },
+      {
+        "name": "Wu Kai Sha",
+        "distance_km": 0.4071309119,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "Wu Kai Sha",
+    "neighbours": [
+      {
+        "name": "Ma On Shan",
+        "distance_km": 0.4071309119,
+        "line": "Tuen Ma",
+        "color": "#AD6738"
+      }
+    ]
+  },
+  {
+    "name": "AsiaWorld-Expo",
+    "neighbours": [
+      {
+        "name": "Airport",
+        "distance_km": 0.9216484931,
+        "line": "Airport Express",
+        "color": "#009999"
+      }
+    ]
+  },
+  {
+    "name": "Airport",
+    "neighbours": [
+      {
+        "name": "AsiaWorld-Expo",
+        "distance_km": 0.9216484931,
+        "line": "Airport Express",
+        "color": "#009999"
+      },
+      {
+        "name": "Tsing Yi",
+        "distance_km": 18.2261324976,
+        "line": "Airport Express",
+        "color": "#009999"
+      }
+    ]
+  }
+]
