@@ -23,4 +23,5 @@ py route_finder.py
 ```
 ---
 This program was created for the Discrete Mathematics (IF1220) course paper.
-\nBy: Mahesa Fadhillah Andre (13523140)
+
+By: Mahesa Fadhillah Andre (13523140)
