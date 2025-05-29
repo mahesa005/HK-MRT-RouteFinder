@@ -77,8 +77,8 @@ def main():
     if isinstance(result, tuple) and len(result) == 2:
         path, stop_count = result
         print(f"\nRoute from {start_name} to {end_name}:")
-        print(f"Total path visited: {stop_count}")
-        print("Route path:")
+        print(f"Total Stations visited: {stop_count}")
+        print("Stops:")
         for i, station in enumerate(path):
             print(f"{i+1}. {station.val}")
     else:
