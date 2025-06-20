@@ -2,17 +2,6 @@ from models.node import Node
 from collections import deque
 from utils.station_loader import load_station_nodes
 
-# def main():
-    # stations = load_station_nodes("hk-metro-nodes.json")
-    # print(f"Loaded {len(stations)} stations")
-    
-    # # Print beberapa stasiun untuk testing
-    # for i, station in enumerate(stations):
-    #     print(f"\n {i+1}. Station: {station.val}")
-    #     print(f"Neighbours ({len(station.neighbours)}):")
-    #     for j, neighbor in enumerate(station.neighbours):
-    #         print(f"  - {neighbor.val}")
-
 def bfs_search(start: Node, end: Node):
     visited = set({start})
     queue = deque([start])
@@ -26,9 +15,9 @@ def bfs_search(start: Node, end: Node):
                 while current:
                     path.append(current)
                     current = parent.get(current)
-                    stop_ctr += 1
                 
                 path.reverse()
+                stop_ctr = len(path)
                 return path, stop_ctr
             
             else:
@@ -77,10 +66,9 @@ def main():
     if isinstance(result, tuple) and len(result) == 2:
         path, stop_count = result
         print(f"\nRoute from {start_name} to {end_name}:")
-        print(f"Total Stations visited: {stop_count}")
-        print("Stops:")
         for i, station in enumerate(path):
             print(f"{i+1}. {station.val}")
+        print(f"Total Stations visited: {stop_count}")
     else:
         print("Could not find a route between the specified stations.")
 

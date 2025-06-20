@@ -2,12 +2,12 @@ import json
 import sys
 from pathlib import Path
 
-# Tambahkan direktori src ke Python path
+# Add path directory
 current_script_path = Path(__file__).resolve()
 project_src_directory = current_script_path.parent.parent  # src folder
 sys.path.append(str(project_src_directory))
 
-# Sekarang bisa import menggunakan absolute path
+# import from absolute path
 from models.node import Node
 
 def load_json_from_data_folder(json_filename):
