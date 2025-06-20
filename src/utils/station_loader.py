@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Add path directory
 current_script_path = Path(__file__).resolve()
-project_src_directory = current_script_path.parent.parent  # src folder
+project_src_directory = current_script_path.parent.parent
 sys.path.append(str(project_src_directory))
 
 # import from absolute path
@@ -12,13 +12,8 @@ from models.node import Node
 
 def load_json_from_data_folder(json_filename):
     try:
-        # Get absolute path of current file
         current_script_path = Path(__file__).resolve()
-
-        # Get main project folder directory
         project_folder_directory = current_script_path.parent.parent.parent
-
-        # Get data folder directory
         json_file_path = project_folder_directory /'data'/ json_filename
 
         with open(json_file_path, 'r') as f:
